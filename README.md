@@ -1,16 +1,15 @@
-### Hi there 👋
+# Vic Trodd
 
-<!--
-**vtrodd/vtrodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Student at the **University of York**, studying Interactive Media.<br>
+💻 Currently on my year in industry at **CERN**, working as a full-stack developer.
 
-Here are some ideas to get you started:
+## Things I've worked with
+|Programming|Web Dev|Media|
+|---|---|---|
+|☕ Java|🦖 HTML/CSS|🖌 Photoshop|
+|♋ C|📜 JavaScript|✒ Illustrator|
+|🔪 C#|⌨ TypeScript|🏢 Office|
+|🐍 Python|⚛ React|🤎 VSCode|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+![Vic's Github Stats](https://github-readme-stats.vercel.app/api?username=vtrodd&count_private=true&show_icons=true&theme=react)
