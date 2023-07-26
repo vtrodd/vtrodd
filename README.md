@@ -1,7 +1,7 @@
 # Vic Trodd
 
-👨‍🎓 Student at the **University of York**, studying Interactive Media.<br>
-💻 Currently on my year in industry at **CERN**, working as a full-stack developer.
+👨‍🎓 BSc Interactive Media with Placement Year from the **University of York**<br>
+💻 Previously worked for **CERN** as a full-stack developer.
 
 ## Things I've worked with
 |Programming|Web Dev|Media|
